@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Pavel :grin:
+
+- I learn Java at [Job4j](https://job4j.ru/)
+- ![Spring](https://1.gravatar.com/avatar/d1d6822962196e835ff2db5a676e0924b0a20b61e7a799793e8a99c3af632a75?s=160&d=&r=G)
+- ![badge](https://img.shields.io/badge/Java_%3E_8-orange)
+
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=PavelPshen&hide=stars,prs,issues,contribs)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelPshen&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+
+  
 
 <!--
 **PavelPshen/PavelPshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
